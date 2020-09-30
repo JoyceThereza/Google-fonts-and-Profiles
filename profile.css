@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    font-family: 'Peddana', serif; ;
+}
+body div {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;  
+
+}
+.profile picture{
+    border-radius:10px 100px;
+}
