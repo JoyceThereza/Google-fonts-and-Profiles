@@ -1,16 +1,24 @@
 body {
-    background-color: aqua;
-    font-family: 'Peddana', serif; ;
+    background-color: aliceblue;
+    
+   
 }
 body div {
     margin: auto;
-    width: 50%;
+    width: 50%;  
+    border: green;
+    border-style: solid;
+    border-width: 20px;
     text-align: center;
-    background-color: white;
-    padding: 10px;
-    margin: 20px;  
-
+    border-radius: 20px;
+    padding: 50px;
+    
 }
 .profile picture{
     border-radius:10px 100px;
+    width: 50%;
+    height: 50%;
+}  
+ h1 {
+    color: darkgreen;
 }

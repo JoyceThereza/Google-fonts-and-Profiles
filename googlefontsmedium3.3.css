@@ -1,0 +1,28 @@
+h1 {
+font-family: 'Assistant', sans-serif;
+color: indigo;
+
+}
+
+h2 { font-style: italic;
+    color: brown;
+}
+
+.intro {
+    font-family: 'Titillium Web', sans-serif;
+    color: black;
+
+}
+ .likes {
+     color: black;
+     font-family: 'Cousine', monospace;
+   }
+
+    
+.dislikes {
+    color: black;
+    font-family: 'Cousine', monospace;
+
+
+}
+ body { text-align: center;}

@@ -1,0 +1,20 @@
+
+body {
+    background-color: darkseagreen;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: darkgoldenrod;
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: solid;
+    
+    
+}
+h1 { color: black; 
+    font-family: 'Viga', sans-serif;
+}
+h2 { color: brown;
+    font-family: 'Righteous', cursive;
+
+}

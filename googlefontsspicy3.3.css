@@ -1,0 +1,27 @@
+h1 { color: brown;
+font-family: 'Berkshire Swash', cursive;
+
+}
+
+h2 { color: darkblue;
+    font-family: 'Architects Daughter', cursive;
+
+
+}
+body { text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: cornsilk;
+}
+
+p { color: black;
+    font-family: 'Tangerine', cursive;
+}
+
+.likes { font-family: 'Crafty Girls', cursive;
+    color: black;
+
+}
+ .dislikes { font-family: 'Crafty Girls', cursive;
+color: blackm;
+}
